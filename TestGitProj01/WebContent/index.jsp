@@ -16,9 +16,9 @@
 	<ul>
 		<li>Git 첫번째항목</li>
 		<li>두번째 항목추가</li>
-		<li></li>
-		<li></li>
-		<li></li>
+		<li>집에서 작업추가</li>
+		<li>학원에서작업</li>
+		<li>ㅇㅇㅇ</li>
 	</ul>
 </body>
 </html>
